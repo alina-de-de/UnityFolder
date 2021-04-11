@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Studium\5. Semester\Introduction to Unity\2D Escape Room" t="IncludeRecursive">
+      <e p="2D Escape Room.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="ButtonBehaviour.cs" t="Include" />
+          <e p="ButtonHandler.cs" t="Include" />
+          <e p="ChangeView.cs" t="Include" />
+          <e p="HörsaalDisplay.cs" t="Include" />
+          <e p="IInteractable.cs" t="Include" />
+          <e p="Interact.cs" t="Include" />
+          <e p="ObjectManage.cs" t="Include" />
+          <e p="ZoominObject.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Rebekka\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Rebekka\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_2D Escape Room.-1448549629.00" t="ExcludeRecursive" />
+  </component>
+</project>
