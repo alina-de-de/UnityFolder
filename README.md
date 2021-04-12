@@ -27,3 +27,8 @@ Video: https://myshare.uni-osnabrueck.de/f/08300fd02146468dbd1b/
 
 All the best, 
 Rebekka Schlenker and Alina Deuschle
+
+
+Note on the uploaded files:
+After commiting our project we realized that there are some files which are not neccessary for our "final game" (e.g. Sprites-folder). We weren't quite sure if by deleting some of those our game would lack some resources - so we just decided to leave them in the respective folders. In case there occurs any confusion about which files are neccessary feel free to contact us. 
+adeuschle@uni-osnabrueck.de
